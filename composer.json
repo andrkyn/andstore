@@ -1,0 +1,18 @@
+{
+    "name": "andrey/andstore",
+    "description": "TEST",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "andrkyn",
+            "email": "andrhil14@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "andframe\\": ""
+        }
+    }
+}
